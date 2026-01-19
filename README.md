@@ -12,12 +12,13 @@ This project designs a portfolio using historical price data and technical analy
 - Construct a concentrated portfolio aimed at beating the market benchmark
 
 ## Methodology
-- Pulled historical stock price data using Yahoo Finance
-- Evaluated stocks using multiple technical indicators (e.g., momentum and trend signals)
+- Pulled historical stock price data from Yahoo Finance
+- Evaluated stocks using multiple technical indicators (e.g., momentum, moving averages, and volatility)
 - Standardized indicator scores using z-scores and exponential scaling
-- Ranked stocks and selected the top 15 for portfolio inclusion
-- Generated random portfolio weight allocations and simulated portfolio performance
-- Selected the portfolio weights that maximized the Sharpe ratio across simulations
+- Ranked stocks and selected the top 15 for the portfolio
+- Generated random weights for technical indicators and simulated portfolio performance
+- Selected indicator weights that maximized the portfolio Sharpe ratio
+
 
 ## Technologies Used
 - Python
