@@ -26,6 +26,4 @@ This project designs a portfolio using historical price data and technical analy
 - datetime, math
 - Jupyter Notebook
 
-## Results
-- Generated a list of stocks based on technical scores aligned with a “market beat” strategy
 
