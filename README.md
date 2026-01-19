@@ -8,7 +8,7 @@ This project designs a portfolio using historical price data and technical analy
 
 ## Objective
 - Build a systematic stock-selection strategy
-- Apply technical indicators to rank equities
+- Apply technical indicators, such as RSI, Momentum, etc. to rank equities
 - Construct a concentrated portfolio aimed at beating the market benchmark
 
 ## Methodology
