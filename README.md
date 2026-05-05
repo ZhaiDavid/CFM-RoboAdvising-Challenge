@@ -1,4 +1,3 @@
-# Market-Beating Portfolio Generator 
 Contributors: Umer C, Prithvi S, David Z
 
 A Python-based quantitative investment strategy that constructs and evaluates a 15-stck portfolio using technical indicators with the goal of outperforming the market.
