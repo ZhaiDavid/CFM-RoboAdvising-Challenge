@@ -1,4 +1,4 @@
-#Portfolio Generator with the Goal of Beating the Market
+# Portfolio Generator with the Goal of Beating the Market
 
 Contributors: Umer C, Prithvi S, David Z
 
